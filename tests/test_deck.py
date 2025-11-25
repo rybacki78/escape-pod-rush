@@ -1,4 +1,4 @@
-from core.deck import Deck, Card, DECK_SIZE
+from escape_pod_rush.core.deck import Deck, Card, DECK_SIZE
 
 
 def test_deck_initial_state():
