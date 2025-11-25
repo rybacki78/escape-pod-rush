@@ -1,4 +1,4 @@
-![Tests](https://github.com/rybacki78/escape-pod-rush/actions/workflows/tests.yml/badge.svg)
+[![Tests](https://github.com/rybacki78/escape-pod-rush/actions/workflows/tests.yml/badge.svg)](https://github.com/rybacki78/escape-pod-rush/actions)
 
 # Escape Pod Rush
 
